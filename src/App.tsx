@@ -4,6 +4,9 @@ function App() {
   return (
     <>
       <Navbar />
+      <div>
+        
+      </div>
     </>
   )
 }
