@@ -1,14 +1,12 @@
 import Navbar from './layout/navbar'
-// import Piles from './pages/piles'
-import FpTsExamples from './fp-ts'
+import Piles from './pages/piles'
 
 function App() {
   return (
     <>
       <Navbar />
       <div>
-        {/* <Piles /> */}
-        <FpTsExamples />
+        <Piles />
       </div>
     </>
   )
